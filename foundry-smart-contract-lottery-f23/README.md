@@ -1,10 +1,10 @@
-#Provably Random Raffle Contracts
+# Provably Random Raffle Contracts
 
-##About 
+## About 
 
 This code is to create a provably random smart contract lottery.
 
-##What do we want it to do?
+## What do we want it to do?
 
 1. Users can enter by paying for a ticket
     1. The ticket fess are going to go to the 2winner during the draw
